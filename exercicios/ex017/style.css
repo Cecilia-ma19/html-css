@@ -1,0 +1,15 @@
+body {
+    font-family: 'Work Sans', Arial,  Helvetica, sans-serif;
+    /* Medidas Absolutas
+    cm, mm in, px, pt, pc
+
+    Medidas Relativas
+    em, ex, rem, vw, vh, %
+    16px geralmente = 1em
+    */
+    font-size: 1em;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+}
+
